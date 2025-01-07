@@ -2,7 +2,7 @@
 
 The Simple Bank System is a straightforward C++ application designed to simulate basic banking operations. It provides features such as user authentication, account management, transactions, and currency exchange. This project focuses on simplicity and ease of use while incorporating basic security measures, like encrypted password storage.
 
-## 🚀 Project Purpose
+## 🎯 Project Purpose
 
 This is a personal project to demonstrate basic banking operations implemented in C++. It covers account management, transactions, and basic security features like password encryption. This project is aimed at showcasing an understanding of C++ fundamentals, object-oriented programming, and simple user authentication systems.
 
@@ -16,16 +16,6 @@ The system includes a secure login screen where users can authenticate with a us
 *   Active User Information
 
 For added security, users are given three attempts to log in successfully. If the maximum number of attempts is reached, access will be temporarily restricted to prevent unauthorized access.
-
-## ✅ Input Validations
-
-The Simple Bank System includes input validations to ensure data integrity and user security. The following validations are applied throughout the system:
-
-- User inputs such as account details, transaction amounts, and usernames are checked for correct formats and types.
-- Transactions such as deposits, withdrawals, and transfers are validated to ensure the user does not exceed available account balances.
-- Invalid inputs, such as entering special characters or excessively long strings, are rejected to prevent errors or potential security vulnerabilities.
-
-These measures help maintain a smooth and secure experience for users.
 
 ### 📋 Main Menu
 
@@ -74,6 +64,16 @@ The currency exchange feature allows users to handle foreign currency transactio
 ### 🔒 Encrypted Password Storage
 
 Passwords are securely encrypted using an algorithm that is integrated within the project files. The encryption algorithm is implemented as part of the classes in the project to ensure that user passwords remain protected. Even if the database is compromised, the passwords are not stored in plain text, increasing the system's security.
+
+## ✅ Input Validations
+
+The Simple Bank System includes input validations to ensure data integrity and user security. The following validations are applied throughout the system:
+
+- User inputs such as account details, transaction amounts, and usernames are checked for correct formats and types.
+- Transactions such as deposits, withdrawals, and transfers are validated to ensure the user does not exceed available account balances.
+- Invalid inputs, such as entering special characters or excessively long strings, are rejected to prevent errors or potential security vulnerabilities.
+
+These measures help maintain a smooth and secure experience for users.
 
 ## 🚀 Future Features
 
