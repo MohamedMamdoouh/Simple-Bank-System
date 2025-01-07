@@ -2,6 +2,10 @@
 
 The Simple Bank System is a straightforward C++ application designed to simulate basic banking operations. It provides features such as user authentication, account management, transactions, and currency exchange. This project focuses on simplicity and ease of use while incorporating basic security measures, like encrypted password storage.
 
+## 🚀 Project Purpose
+
+This is a personal project to demonstrate basic banking operations implemented in C++. It covers account management, transactions, and basic security features like password encryption. This project is aimed at showcasing an understanding of C++ fundamentals, object-oriented programming, and simple user authentication systems.
+
 ## Features
 
 ### 🛡️ Login Screen
@@ -11,7 +15,7 @@ The system includes a secure login screen where users can authenticate with a us
 *   Current Date and Day
 *   Active User Information
 
-This ensures clarity and accountability throughout the session.
+For added security, users are given three attempts to log in successfully. If the maximum number of attempts is reached, access will be temporarily restricted to prevent unauthorized access.
 
 ### 📋 Main Menu
 
@@ -59,7 +63,7 @@ The currency exchange feature allows users to handle foreign currency transactio
 
 ### 🔒 Encrypted Password Storage
 
-To ensure user data security, the system encrypts passwords using a simple yet effective encryption method.
+Passwords are securely encrypted using an algorithm that is integrated within the project files. The encryption algorithm is implemented as part of the classes in the project to ensure that user passwords remain protected. Even if the database is compromised, the passwords are not stored in plain text, increasing the system's security.
 
 ## 📁 Project Structure
 
@@ -71,6 +75,10 @@ The project is organized into the following directories:
 *   `Screens/`: Handles user interface components.
 *   `Text Files/`: Persistent storage for account and transaction data.
 
-## 📄 License
+## 📄 License and Contribution
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request with your improvements or fixes.
