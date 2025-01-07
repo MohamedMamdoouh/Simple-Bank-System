@@ -1,6 +1,6 @@
 # Simple Bank System
 
-The Simple Bank System is a robust C++ application designed to streamline essential banking operations while maintaining data security and user-friendliness. This project offers advanced features such as secure user authentication, encrypted data storage, and a variety of banking services.
+The Simple Bank System is a straightforward C++ application designed to simulate basic banking operations. It provides features such as user authentication, account management, transactions, and currency exchange. This project focuses on simplicity and ease of use while incorporating basic security measures, like encrypted password storage.
 
 ## Features
 
