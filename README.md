@@ -1,4 +1,4 @@
-# Simple Bank System 🛡️
+# Simple Bank System
 
 The Simple Bank System is a robust C++ application designed to streamline essential banking operations while maintaining data security and user-friendliness. This project offers advanced features such as secure user authentication, encrypted data storage, and a variety of banking services.
 
@@ -71,6 +71,6 @@ The project is organized into the following directories:
 *   `Screens/`: Handles user interface components.
 *   `Text Files/`: Persistent storage for account and transaction data.
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
