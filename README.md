@@ -17,6 +17,16 @@ The system includes a secure login screen where users can authenticate with a us
 
 For added security, users are given three attempts to log in successfully. If the maximum number of attempts is reached, access will be temporarily restricted to prevent unauthorized access.
 
+## ✅ Input Validations
+
+The Simple Bank System includes input validations to ensure data integrity and user security. The following validations are applied throughout the system:
+
+- User inputs such as account details, transaction amounts, and usernames are checked for correct formats and types.
+- Transactions such as deposits, withdrawals, and transfers are validated to ensure the user does not exceed available account balances.
+- Invalid inputs, such as entering special characters or excessively long strings, are rejected to prevent errors or potential security vulnerabilities.
+
+These measures help maintain a smooth and secure experience for users.
+
 ### 📋 Main Menu
 
 Once logged in, users are presented with a comprehensive main menu offering the following options:
@@ -87,7 +97,7 @@ The project is organized into the following directories:
 *   `Screens/`: Handles user interface components.
 *   `Text Files/`: Persistent storage for account and transaction data.
 
-## 📄 License and Contribution
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
