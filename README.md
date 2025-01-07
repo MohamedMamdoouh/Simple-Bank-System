@@ -65,6 +65,18 @@ The currency exchange feature allows users to handle foreign currency transactio
 
 Passwords are securely encrypted using an algorithm that is integrated within the project files. The encryption algorithm is implemented as part of the classes in the project to ensure that user passwords remain protected. Even if the database is compromised, the passwords are not stored in plain text, increasing the system's security.
 
+## 🚀 Future Features
+
+- Integration with a real database for persistent data storage.
+- Enhancing the user interface for a more polished experience.
+- Implementing user session timeout for additional security after inactivity.
+
+## ⚠️ Known Limitations
+
+- The system currently supports only basic banking operations and is not connected to a real-world bank or database. It's for demo purposes.
+- While input validation is applied, there may still be room for more extensive edge-case handling.
+- Some user interface aspects are minimal and may not be fully optimized for large-scale use.
+
 ## 📁 Project Structure
 
 The project is organized into the following directories:
