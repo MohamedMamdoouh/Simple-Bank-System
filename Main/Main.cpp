@@ -1,5 +1,4 @@
-// #include <bits/stdc++.h>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsLoginScreen.h"
+#include "Screens\User\clsLoginScreen.h"
 using namespace std;
 
 int main()
