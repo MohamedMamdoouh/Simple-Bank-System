@@ -1,11 +1,11 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsCurrency.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Currency\clsCurrenciesListScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Currency\clsFindCurrencyScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Currency\clsUpdateRateScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Currency\clsCurrencyCalculatorScreen.h"
+#include "Screens\Main\clsScreen.h"
+#include "Core\clsCurrency.h"
+#include "Lib\clsInputValidate.h"
+#include "Screens\Currency\clsCurrenciesListScreen.h"
+#include "Screens\Currency\clsFindCurrencyScreen.h"
+#include "Screens\Currency\clsUpdateRateScreen.h"
+#include "Screens\Currency\clsCurrencyCalculatorScreen.h"
 
 class clsCurrencyExchangeScreen : protected clsScreen
 {

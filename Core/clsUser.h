@@ -1,10 +1,10 @@
 #pragma once
 #include <string>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsPerson.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsString.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsUtil.h"
+#include "Core\clsPerson.h"
+#include "Lib\clsString.h"
+#include "Lib\clsUtil.h"
 #include <fstream>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsDate.h"
+#include "Lib\clsDate.h"
 using namespace std;
 
 class clsUser : public clsPerson

@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsPerson.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsString.h"
+#include "Core\clsPerson.h"
+#include "Lib\clsString.h"
 #include <fstream>
 using namespace std;
 

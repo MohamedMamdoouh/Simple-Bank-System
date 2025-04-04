@@ -1,8 +1,8 @@
 #pragma once
 #include <iostream>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsUser.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Global.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsDate.h"
+#include "Core\clsUser.h"
+#include "Global.h"
+#include "Lib\clsDate.h"
 using namespace std;
 
 class clsScreen

@@ -1,7 +1,7 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
+#include "Screens\Main\clsScreen.h"
 #include <iomanip>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsCurrency.h"
+#include "Core\clsCurrency.h"
 
 class clsCurrenciesListScreen : protected clsScreen
 {

@@ -2,7 +2,7 @@
 #include <limits>
 #include <iostream>
 #include <string>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsDate.h"
+#include "Lib\clsDate.h"
 using namespace std;
 
 class clsInputValidate

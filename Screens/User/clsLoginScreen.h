@@ -1,8 +1,8 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Global.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsMainScreen.h"
+#include "Screens\Main\clsScreen.h"
+#include "Lib\clsInputValidate.h"
+#include "Global.h"
+#include "Screens\Main\clsMainScreen.h"
 
 class clsLoginScreen : protected clsScreen
 {

@@ -1,12 +1,12 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
+#include "Screens\Main\clsScreen.h"
+#include "Lib\clsInputValidate.h"
+#include "Screens\User\clsListUsersScreen.h"
+#include "Screens\User\clsAddNewUserScreen.h"
+#include "Screens\User\clsDeleteUserScreen.h"
+#include "Screens\User\clsUpdateUserScreen.h"
+#include "Screens\User\clsFindUserScreen.h"
 #include <iomanip>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsListUsersScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsAddNewUserScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsDeleteUserScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsUpdateUserScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsFindUserScreen.h"
 
 class clsManageUsersMenu : protected clsScreen
 {

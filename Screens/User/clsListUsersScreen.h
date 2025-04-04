@@ -1,8 +1,8 @@
 #pragma once
 #include <iomanip>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsBankClient.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsUser.h"
+#include "Screens\Main\clsScreen.h"
+#include "Core\clsBankClient.h"
+#include "Core\clsUser.h"
 
 class clsListUsersScreen : protected clsScreen
 {

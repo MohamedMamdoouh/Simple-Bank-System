@@ -1,12 +1,12 @@
 #pragma once
 #include <iomanip>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsDepositScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsWithdrawScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsTotalBalancesScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsTransferScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsTransferLogScreen.h"
+#include "Screens\Main\clsScreen.h"
+#include "Lib\clsInputValidate.h"
+#include "Screens\Client\clsDepositScreen.h"
+#include "Screens\Client\clsWithdrawScreen.h"
+#include "Screens\Client\clsTotalBalancesScreen.h"
+#include "Screens\Client\clsTransferScreen.h"
+#include "Screens\User\clsTransferLogScreen.h"
 
 class clsTransactionMenu : protected clsScreen
 {

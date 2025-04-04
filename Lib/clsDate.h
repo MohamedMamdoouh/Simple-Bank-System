@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsString.h"
+#include "Lib\clsString.h"
 using namespace std;
 
 class clsDate

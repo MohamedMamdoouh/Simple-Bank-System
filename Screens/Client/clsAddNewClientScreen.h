@@ -1,7 +1,7 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsBankClient.h"
+#include "Screens\Main\clsScreen.h"
+#include "Lib\clsInputValidate.h"
+#include "Core\clsBankClient.h"
 
 class clsAddNewClientScreen : protected clsScreen
 {

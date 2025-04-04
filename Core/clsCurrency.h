@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <fstream>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsString.h"
+#include "Lib\clsString.h"
 
 class clsCurrency
 {

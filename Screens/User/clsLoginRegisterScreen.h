@@ -1,6 +1,6 @@
 #pragma once
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Core\clsUser.h"
+#include "Screens\Main\clsScreen.h"
+#include "Core\clsUser.h"
 #include <iomanip>
 
 class clsLoginRegisterScreen : protected clsScreen

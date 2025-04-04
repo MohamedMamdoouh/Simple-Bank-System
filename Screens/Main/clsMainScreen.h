@@ -1,18 +1,18 @@
 #pragma once
 #include <iostream>
 #include <iomanip>
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Lib\clsInputValidate.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\clsScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsClientListScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsAddNewClientScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsDeleteClientScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsUpdateClientScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsFindClientScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Client\clsTransactionMenu.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsManageUsersMenu.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Global.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\User\clsLoginRegisterScreen.h"
-#include "C:\Users\Mohamed Mamdouh\Documents\MyGitHub\Course 9\Screens\Currency\clsCurrencyExchangeScreen.h"
+#include "Lib\clsInputValidate.h"
+#include "Screens\Main\clsScreen.h"
+#include "Screens\Client\clsClientListScreen.h"
+#include "Screens\Client\clsAddNewClientScreen.h"
+#include "Screens\Client\clsDeleteClientScreen.h"
+#include "Screens\Client\clsUpdateClientScreen.h"
+#include "Screens\Client\clsFindClientScreen.h"
+#include "Screens\Client\clsTransactionMenu.h"
+#include "Screens\User\clsManageUsersMenu.h"
+#include "Global.h"
+#include "Screens\User\clsLoginRegisterScreen.h"
+#include "Screens\Currency\clsCurrencyExchangeScreen.h"
 using namespace std;
 
 class clsMainScreen : protected clsScreen
